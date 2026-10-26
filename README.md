@@ -10,7 +10,6 @@ Looking for full-time data analyst, business analyst, and tech consulting roles 
 |---|---|---|
 | [**closter-showtimes**](https://github.com/Kovar1/closter-showtimes) | Records a movie theater's showtimes and seats sold every 15 minutes to model demand by film, time slot, and weather. Being prepared as a pitch to the theater chain's corporate team. | Python, GitHub Actions, CSV, Open-Meteo |
 | [**AMC Assistant**](https://github.com/Kovar1/AMC-Assistant) ([live](https://amc-assistant.vercel.app)) | Multi-user showtime app with an MCP server so AI assistants can query live theater data. 240+ tests, CI on every push. | TypeScript, Next.js, Postgres (Supabase), Vercel |
-| [**StudioSignal**](https://github.com/Kovar1/StudioSignalMarkII) | Tracks how TMDb's Top 50 shifts week over week across genres, streaming platforms, and box office, with every dashboard number traceable to its SQL. | Python, FastAPI, SQLAlchemy, React, Postgres |
 | [**Kovarboxd**](https://github.com/Kovar1/Kovarboxd) | Fast search over the full IMDb dataset (millions of titles) using SQLite full-text search, with TMDb posters. | Python, Flask, SQLite FTS5 |
 
 ## Tools
